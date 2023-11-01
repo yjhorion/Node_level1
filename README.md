@@ -22,6 +22,8 @@ GET // http://yjhorion.co.kr:4000/api/products/:pName
 
 /** 상품 내용 변경 **/
 PATCH // http://yjhorion.co.kr:4000/api/products/:pName
+
+JSON
 {
 	"productName" : "변경된 상품예시3",
 	"description" : "변경된 상품정보",
