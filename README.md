@@ -5,6 +5,8 @@ CRUD level1
 
 /** 물품추가 **/
 POST // http:/yjhorion.co.kr:4000/api/products
+
+JSON
 {
 	"productName" : "상품예시1",
 	"description" : "상품정보",
