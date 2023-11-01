@@ -6,7 +6,7 @@ import errorHandlerMiddleware from "./middlewares/error-handler.middleware.js";
 const app = express();
 const PORT = 4000;
 
-connect();
+connect(); ㅇㄹ
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
