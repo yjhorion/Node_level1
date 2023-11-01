@@ -4,7 +4,7 @@ CRUD level1
 4000번 포트 사용
 
 /** 물품추가 **/
-POST // http:/yjhorion.co.kr:4000/api/products/
+POST // http:/yjhorion.co.kr:4000/api/products
 {
 	"productName" : "상품예시1",
 	"description" : "상품정보",
